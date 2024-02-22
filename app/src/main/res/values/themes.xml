@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.Inscription" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Base.Theme.Scolarite" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Définissez ici les attributs spécifiques à votre style Base.Theme.Scolarite -->
+    </style>
+    <style name="Theme.Scolarite" parent="Base.Theme.Scolarite">
+        <!-- Définissez ici les attributs spécifiques à votre style Theme.Scolarite -->
+    </style>
 </resources>
